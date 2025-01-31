@@ -298,6 +298,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -915,6 +919,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1298,6 +1306,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1505,6 +1517,10 @@ PrefabInstance:
     - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_Name
       value: Boite (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
@@ -2097,6 +2113,10 @@ PrefabInstance:
     - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_Name
       value: Boite
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
@@ -3848,6 +3868,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -4145,6 +4169,10 @@ PrefabInstance:
     - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_Name
       value: Boite (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
@@ -6429,6 +6457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -7261,7 +7293,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1890885310}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Boites
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8099,6 +8131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Boite (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -8231,6 +8267,10 @@ PrefabInstance:
     - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_Name
       value: Boite (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1751948307316588, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4245984269440238, guid: 83f835125c8a765428cc468f251e8c44, type: 3}
       propertyPath: m_RootOrder
