@@ -6,7 +6,7 @@ public class DetectionCible : MonoBehaviour
 {
     void OnCollisionEnter2D(Collision2D collision){
         print(collision.gameObject.name + " : " + collision.gameObject.tag);
-        if(collision.gameObject.CompareTag("Cible")){
+        if(collision.gameObject.CompareTag("Cible A")){
             Destroy(collision.gameObject);
         }
     }
